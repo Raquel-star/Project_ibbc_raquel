@@ -101,7 +101,7 @@ cd REPOSITORY/scripts
 bash
 Copy code
 Running the scripts:
-You do **not** need to make the scripts executable.
+You do not need to make the scripts executable.
 > These scripts are designed to run directly with `bash`, which ensures consistent behavior across systems and avoids permission-related issues.
 ```bash
 bash create_script.sh
